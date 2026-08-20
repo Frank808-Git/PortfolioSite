@@ -233,6 +233,13 @@ export default function App() {
                       ))}
                     </div>
                   </div>
+                  {/*
+                  <div className="pt-4 mt-4 border-t border-slate-700/40 flex gap-3">
+                    <a href={project.github} target="_blank" rel="noreferrer" className="inline-flex items-center gap-1.5 text-xs text-slate-300 hover:text-sky-400 transition-colors">
+                      <GithubIcon size={14} /> View Code
+                    </a>
+                  </div>
+                  */}
                 </div>
               ))}
             </div>
