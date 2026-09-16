@@ -154,7 +154,7 @@ export default function App() {
       role: 'Budget Coordinator and Fundraising Chair',
       company: 'TEDxUCIrvine',
       location: 'Irvine, CA',
-      period: 'Sept. 2024 – Present',
+      period: 'Sep. 2024 – Present',
       bullets: [
         'Spearheaded community outreach, securing partnerships and raising over $9,000 annually to fund conferences.',
         'Manage an annual $5000 operational budget, tracking expenses for venues, materials, and marketing assets.',
