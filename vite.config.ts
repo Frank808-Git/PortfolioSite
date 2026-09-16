@@ -4,5 +4,5 @@ import tailwindcss from '@tailwindcss/vite'
 
 export default defineConfig({
   plugins: [react(), tailwindcss()],
-  base: '/PortfolioSite/', // Replace 'portfolio-site' with your exact GitHub repository name
+  base: './', // Replace 'portfolio-site' with your exact GitHub repository name
 })

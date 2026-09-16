@@ -26,7 +26,7 @@ const LinkedinIcon: React.FC<{ size?: number }> = ({ size = 20 }) => (
 interface Project {
   id: string;
   title: string;
-  category: 'web' | 'embedded' | 'data';
+  category: 'web' | 'embedded' | 'data' | 'software' | 'education' | 'hardware';
   description: string;
   tags: string[];
   github: string;
