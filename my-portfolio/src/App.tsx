@@ -179,7 +179,7 @@ export default function App() {
       role: 'Data Analyst Intern and Curriculum Developer',
       company: 'ThinkAcademy',
       location: 'Irvine, CA',
-      period: 'Jun. 2026 – Sept. 2026',
+      period: 'Jun. 2026 – Sep. 2026',
       bullets: [
         'Developed an automated Python application to parse 10,000+ test scores, cutting processing time by 85%.',
         'Analyzed topic-level performance data to design 15+ workbooks, driving topic mastery up by 20%.'
@@ -199,7 +199,7 @@ export default function App() {
       role: 'Researcher and Data Analyst',
       company: 'Research in Microsystems and Robotics Laboratory',
       location: 'Irvine, CA, USA',
-      period: 'September 2024 - December 2024',
+      period: 'Sep. 2024 - Dec. 2024',
       bullets: [
         'Researched gait analysis, compiling data from academic papers to aid in prototype development.',
         'Conducted 5 in-depth literature reviews summarizing 40+ papers on biomechanical gait analysis, exploring potential advancements in wearable sensor technology to detect the onset of mental conditions such as depression, anxiety, and dementia.',
