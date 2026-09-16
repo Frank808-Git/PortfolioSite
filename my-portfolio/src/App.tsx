@@ -76,6 +76,54 @@ export default function App() {
       description: 'Automated Python application parsing 10,000+ student exam records to accelerate analytics throughput by 85% and pinpoint key learning gaps across curriculum topics.',
       tags: ['Python', 'pandas', 'NumPy', 'Data Analytics'],
       github: 'https://github.com/Frank808-Git'
+    },
+    {
+      id: 'kitsilano-summer-camp',
+      title: 'Kitsilano Neighbourhood House Summer Camp',
+      category: 'education',
+      description: 'Founded and developed a summer camp program in partnership with a local non-profit to serve underprivileged youth, directing activities for over 50 children and designing hands-on science experiments to teach foundational STEM concepts.',
+      tags: ['Program Development', 'STEM Education', 'Community Outreach', 'Leadership', 'Curriculum Design'],
+      github: 'https://github.com/Frank808-Git'
+    },
+    {
+      id: 'direct-messaging-app',
+      title: 'Direct Messaging Application',
+      category: 'software',
+      description: 'An end-to-end direct messaging application developed in Python utilizing Tkinter, Sockets, and JSON to provide seamless, real-time local network communication for 200+ students.',
+      tags: ['Python', 'Tkinter', 'Sockets', 'JSON', 'Visual Studio'],
+      github: 'https://github.com/Frank808-Git'
+    },
+    {
+      id: 'autonomous-rover',
+      title: 'Autonomous Rover',
+      category: 'embedded',
+      description: 'Directed circuit and software design for an autonomous rover, programming an Arduino to integrate PixyCam and IR sensors, alongside assembling custom circuitry for motor control, servo steering, and a claw mechanism.',
+      tags: ['Arduino', 'Circuit Design', 'PixyCam', 'IR Sensors', 'Soldering'],
+      github: 'https://github.com/Frank808-Git'
+    },
+    {
+      id: 'remote-control-rover',
+      title: 'Remote Control Rover',
+      category: 'hardware',
+      description: 'Designed, assembled, and soldered the central circuitry for a competitive remote control rover, optimizing power consumption to increase uptime by 15% and tuning RC receiver signals for precise steering control.',
+      tags: ['Circuit Design', 'Soldering', 'RC Receiver', 'Power Optimization', 'Servo Control'],
+      github: 'https://github.com/Frank808-Git'
+    },
+    {
+      id: 'theme-park-design-competition',
+      title: 'Theme Park Engineering Design Competition',
+      category: 'embedded',
+      description: 'Designed safety and operational control systems for a theme park ride, programming sensors and telemetry software to manage ride timing, trigger motions, and execute emergency protocols for the Toronto Metropolitan University Thrill Design Competition.',
+      tags: ['Control Systems', 'Sensors', 'Telemetry', 'Safety Protocols', 'Systems Design'],
+      github: 'https://github.com/Frank808-Git'
+    },
+    {
+      id: 'manta-race',
+      title: 'Side Scrolling Endless Runner "Manta Race"',
+      category: 'software',
+      description: 'Developed a fast-paced side-scrolling endless runner in Unity (C#) featuring procedural obstacle generation, modular object-oriented game mechanics, and integrated audio-visual effects, while coordinating version control via GitHub.',
+      tags: ['Unity', 'C#', 'Procedural Generation', 'Object-Oriented Design', 'GitHub'],
+      github: 'https://github.com/Frank808-Git'
     }
   ];
 
@@ -103,10 +151,35 @@ export default function App() {
       ]
     },
     {
+      role: 'Budget Coordinator and Fundraising Chair',
+      company: 'TEDxUCIrvine',
+      location: 'Irvine, CA',
+      period: 'Sept. 2024 – Present',
+      bullets: [
+        'Spearheaded community outreach, securing partnerships and raising over $9,000 annually to fund conferences.',
+        'Manage an annual $5000 operational budget, tracking expenses for venues, materials, and marketing assets.',
+        'Authored grant applications, demonstrating strong communication to secure funding for organizational growth.',
+        'Coordinated promotional initiatives and community engagement for events driving attendance and participation.',
+        'Conducted comprehensive cost-benefit analyses on purchases, to negotiate pricing and reduce event costs by 15%.'
+      ]
+    },
+    {
+      role: 'Intelligent Robotics Summer Academy Instructor',
+      company: 'Donald Bren School of Information and Computer Science',
+      location: 'Irvine, CA',
+      period: 'Jun. 2026 – Jul. 2026',
+      bullets: [
+        'Guided 30 students through hardware assembly and C firmware integration for autonomous rovers, accelerating project completion rates by 50% over baseline schedules, all students completed the maze in under 90 seconds.',
+        'Mentored participants in collaborative debugging practices, reducing errors in student code by 35%.',
+        'Troubleshoot student algorithms for IR sensor-based wall detection, improving maze-solving speed by 70.83%.',
+        'Facilitate hands-on code reviews, diagnosing edge cases in algorithmic logic/hardware, ensuring system stability.'
+      ]
+    },
+    {
       role: 'Data Analyst Intern and Curriculum Developer',
       company: 'ThinkAcademy',
       location: 'Irvine, CA',
-      period: 'Jun. 2026 – Present',
+      period: 'Jun. 2026 – Sept. 2026',
       bullets: [
         'Developed an automated Python application to parse 10,000+ test scores, cutting processing time by 85%.',
         'Analyzed topic-level performance data to design 15+ workbooks, driving topic mastery up by 20%.'
@@ -120,6 +193,19 @@ export default function App() {
       bullets: [
         'Rebuilt team website, increasing patron usage by 80% and modernizing UI for 4,500+ users.',
         'Integrated RESTful APIs to retrieve live data and maintain scoreboard precision software.'
+      ]
+    },
+    {
+      role: 'Researcher and Data Analyst',
+      company: 'Research in Microsystems and Robotics Laboratory',
+      location: 'Irvine, CA, USA',
+      period: 'September 2024 - December 2024',
+      bullets: [
+        'Researched gait analysis, compiling data from academic papers to aid in prototype development.',
+        'Conducted 5 in-depth literature reviews summarizing 40+ papers on biomechanical gait analysis, exploring potential advancements in wearable sensor technology to detect the onset of mental conditions such as depression, anxiety, and dementia.',
+        'Explored different communication protocols such as serial peripheral interface (SPI) and I2C.',
+        'Soldered and programmed IMUs and Magnetometers to assemble larger devices used for testing and experimentation.',
+        'Presented findings in meetings collaborating with cross-functional research teams, improving communication and analytical skills.'
       ]
     }
   ];
